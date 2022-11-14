@@ -92,10 +92,10 @@ main {
 }
 
 .center {
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
-  background-color: #272095;
+  background-color: #02010d;
 
   position: absolute;
   left: 50%;
@@ -145,13 +145,13 @@ main {
 }
 
 .analog-items .hours i {
-  width: 8px;
+  width: 7px;
   height: 150px;
   background-color: #212543;
 }
 
 .analog-items .minutes i {
-  width: 5px;
+  width: 4px;
   height: 190px;
 }
 
